@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         //Action Listener for the ok Button
         binding.registerButton.setOnClickListener {
 
-            // if the user enter all the info and the password the same print the info
+            // if the user enter all the info and the password is the same print the info
             //or print warning message
             if (isTextEmpty() && passwordCheck()) {
                 binding.textViewInfo.text =
