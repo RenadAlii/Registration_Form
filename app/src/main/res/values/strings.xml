@@ -1,12 +1,13 @@
 <resources>
-    <string name="app_name">Registration Form1</string>
+    <string name="app_name">Registration Form</string>
     <string name="full_name">Full Name</string>
     <string name="email_address">Email Address</string>
     <string name="password">Password</string>
-    <string name="confirm_password">Confirm!</string>
+    <string name="confirm_password">Confirm password</string>
     <string name="female">Female</string>
     <string name="male">Male</string>
     <string name="ok">OK</string>
     <string name="birthday_date">Birthday Date</string>
     <string name="infoShow" />
+    <string name="email_icon">email_icon</string>
 </resources>
